@@ -5,7 +5,7 @@ Salesforce Developer Catalyst Self-Learning &amp; Super Badges
 
 
 
-<img align="left" alt="Coding" width="400" src="![ice_screenshot_20220918-140237](https://user-images.githubusercontent.com/108396419/190893296-af4fa808-0430-432d-b40b-b7dbaf3539bb.png)">
+<img align="left" alt="Coding" width="1000" src="![ice_screenshot_20220918-140237](https://user-images.githubusercontent.com/108396419/190893296-af4fa808-0430-432d-b40b-b7dbaf3539bb.png)">
 
 2] Process Automation Specialist - SuperBadge
 
